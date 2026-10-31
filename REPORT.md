@@ -4,7 +4,7 @@
 **EPITA Login:** richelle-albina.christopher@epita.fr
 **Assigned API Group:** Group 1 — Financial Markets (Finnhub)  
 **Date:** [30/10/2026]  
-**TestPyPI Live Package URL:** https://test.pypi.org/project/epita-richelle-albina-christopher-markets/
+**Github Reository:** https://github.com/RichelleAlbina/epita-richelle-albina-christopher-markets
 
 ---
 
